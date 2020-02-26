@@ -1,0 +1,4 @@
+#Tue Feb 25 18:33:19 BRT 2020
+base.0=/Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

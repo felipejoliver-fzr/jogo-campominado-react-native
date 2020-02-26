@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/261bdc0eaebaf2d7a834be62ce878fc7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/894f33d316728df56779040f92718db9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a2894fcae25292e4a6e740d6a49bd00a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/02cbb9949395b350e84836b677ee16dd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/ebdc0b7533865d47c30a84d63d1b7d11/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a07a00500e162c36787d1048dbf2bcb6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a9a242e06acf72296d5b5d0850c954e5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/445cc63deabab243a034eec3a531acc9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b01e088ffb2b1211df74de76884ad16b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d89271b7c0eac3834716fbffe4fc00ea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/75af6bafab9439f6976a9577e6ca75a3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/358203ce63925aadba7851b016963541/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/312d0300f19de8bdc0d8d71c41297a63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/44a71a198ac6e527ecd85a92f36d93f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/432a72770e727288c7eae57f9a9e8ef9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/6f91152784d2e12fe4c60e21ad916a1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/591de9ca337b57564d4b8d237ce60893/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a76b358976366fa4052979d822726e0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/002cba8931a99ff400acc3a01aad125d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/1921fec768cbd4b615baf2e89acff988/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/15c4b40056cc57b861a14d7ba1dcb7d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b80ad95336d1e4c9fe42fb92980998c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/7152531441349b39f4711acbb7db0814/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/fcb6c88d4dadd419b6a918a1b14bf53a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/2122ca2257ae7039d6c4148809fa99ac/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b9a6342c5bf96db52be0784f5a606f4c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/ee2f58037910b548d10cca4c776d1030/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/4cdb72ec05a56d10cd1e14d0499dc5cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a4a591b43c35c2340cf78a3ab2df51e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/4b1a9613a72d2e6e48247e57467e7eb8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/477d8c8a493d2e574917509da397ac4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/92d3e718d852e26ea76e6720db017502/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/5e431b3198303fdfd9c0522f1f514898/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d0dfda7dfa8fe077c1dd9d0e4cc92c9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d2c563baf007517890730b23095ce37e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/9f672a059ba74fe1a9cc872c59794bf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/6f80c2131077ede00c0c45b567920a8d/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/261bdc0eaebaf2d7a834be62ce878fc7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/261bdc0eaebaf2d7a834be62ce878fc7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/75af6bafab9439f6976a9577e6ca75a3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/75af6bafab9439f6976a9577e6ca75a3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/2122ca2257ae7039d6c4148809fa99ac/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/2122ca2257ae7039d6c4148809fa99ac/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b9a6342c5bf96db52be0784f5a606f4c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b9a6342c5bf96db52be0784f5a606f4c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/2122ca2257ae7039d6c4148809fa99ac/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.mines.MainActivity
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/261bdc0eaebaf2d7a834be62ce878fc7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/261bdc0eaebaf2d7a834be62ce878fc7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/894f33d316728df56779040f92718db9/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/894f33d316728df56779040f92718db9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a2894fcae25292e4a6e740d6a49bd00a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a2894fcae25292e4a6e740d6a49bd00a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/02cbb9949395b350e84836b677ee16dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/02cbb9949395b350e84836b677ee16dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/ebdc0b7533865d47c30a84d63d1b7d11/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/ebdc0b7533865d47c30a84d63d1b7d11/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a07a00500e162c36787d1048dbf2bcb6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a07a00500e162c36787d1048dbf2bcb6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a9a242e06acf72296d5b5d0850c954e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a9a242e06acf72296d5b5d0850c954e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/445cc63deabab243a034eec3a531acc9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/445cc63deabab243a034eec3a531acc9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b01e088ffb2b1211df74de76884ad16b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b01e088ffb2b1211df74de76884ad16b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d89271b7c0eac3834716fbffe4fc00ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d89271b7c0eac3834716fbffe4fc00ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/75af6bafab9439f6976a9577e6ca75a3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/75af6bafab9439f6976a9577e6ca75a3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/358203ce63925aadba7851b016963541/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/358203ce63925aadba7851b016963541/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/312d0300f19de8bdc0d8d71c41297a63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/312d0300f19de8bdc0d8d71c41297a63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/44a71a198ac6e527ecd85a92f36d93f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/44a71a198ac6e527ecd85a92f36d93f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/432a72770e727288c7eae57f9a9e8ef9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/432a72770e727288c7eae57f9a9e8ef9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/6f91152784d2e12fe4c60e21ad916a1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/6f91152784d2e12fe4c60e21ad916a1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/591de9ca337b57564d4b8d237ce60893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/591de9ca337b57564d4b8d237ce60893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a76b358976366fa4052979d822726e0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a76b358976366fa4052979d822726e0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/002cba8931a99ff400acc3a01aad125d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/002cba8931a99ff400acc3a01aad125d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/1921fec768cbd4b615baf2e89acff988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/1921fec768cbd4b615baf2e89acff988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/15c4b40056cc57b861a14d7ba1dcb7d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/15c4b40056cc57b861a14d7ba1dcb7d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b80ad95336d1e4c9fe42fb92980998c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b80ad95336d1e4c9fe42fb92980998c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/7152531441349b39f4711acbb7db0814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/7152531441349b39f4711acbb7db0814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/fcb6c88d4dadd419b6a918a1b14bf53a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/fcb6c88d4dadd419b6a918a1b14bf53a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/2122ca2257ae7039d6c4148809fa99ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/2122ca2257ae7039d6c4148809fa99ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b9a6342c5bf96db52be0784f5a606f4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/b9a6342c5bf96db52be0784f5a606f4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/ee2f58037910b548d10cca4c776d1030/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/ee2f58037910b548d10cca4c776d1030/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/4cdb72ec05a56d10cd1e14d0499dc5cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/4cdb72ec05a56d10cd1e14d0499dc5cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a4a591b43c35c2340cf78a3ab2df51e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/a4a591b43c35c2340cf78a3ab2df51e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/4b1a9613a72d2e6e48247e57467e7eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/4b1a9613a72d2e6e48247e57467e7eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/477d8c8a493d2e574917509da397ac4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/477d8c8a493d2e574917509da397ac4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/92d3e718d852e26ea76e6720db017502/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/92d3e718d852e26ea76e6720db017502/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/5e431b3198303fdfd9c0522f1f514898/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/5e431b3198303fdfd9c0522f1f514898/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d0dfda7dfa8fe077c1dd9d0e4cc92c9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d0dfda7dfa8fe077c1dd9d0e4cc92c9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d2c563baf007517890730b23095ce37e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/d2c563baf007517890730b23095ce37e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/9f672a059ba74fe1a9cc872c59794bf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/9f672a059ba74fe1a9cc872c59794bf6/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/6f80c2131077ede00c0c45b567920a8d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/felipeoliveira/.gradle/caches/transforms-2/files-2.1/6f80c2131077ede00c0c45b567920a8d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/felipeoliveira/Desktop/projetos/curso-react-native/jogo-campominado-react-native/android/app/src/debug/AndroidManifest.xml:5:22-75
